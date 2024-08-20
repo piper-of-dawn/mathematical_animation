@@ -1,0 +1,2162 @@
+[
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "Scene",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Axes",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Create",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Rectangle",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "UP",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "LEFT",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Tex",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Scene",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Uncreate",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "RIGHT",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Rotate",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "UP",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Dot",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "PI",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "FadeOut",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "FadeIn",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Create",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "RoundedRectangle",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "SVGMobject",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "always_rotate",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "rate_functions",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "VGroup",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "RIGHT",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "LEFT",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "NumberLine",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Line",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Rectangle",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Axes",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "UP",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "LEFT",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "RoundedRectangle",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "SVGMobject",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "VGroup",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "LEFT",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "RIGHT",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "LEFT",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Create",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Scene",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Circle",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Group",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Square",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Create",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "UP",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "DOWN",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Transform",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "FadeOut",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "RoundedRectangle",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "PI",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "SVGMobject",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "VGroup",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "ValueTracker",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "PURPLE",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "GREY_A",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Rectangle",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "LEFT",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Axes",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Line",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "always_redraw",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Dot",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Write",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "rate_functions",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Scene",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Scene",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Axes",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Create",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Rectangle",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "UP",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "LEFT",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "ITALIC",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "rate_functions",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Line",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "RIGHT",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "FadeOut",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "MoveToTarget",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "LineJointType",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "ReplacementTransform",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "MoveAlongPath",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "DOWN",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Tex",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Scene",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "AddTextLetterByLetter",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Mobject",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "linear",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "RIGHT",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "LEFT",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "DOWN",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "VMobject",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Succession",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateFromFunc",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "Rectangle",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "GREY_A",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "ManimColor",
+        "importPath": "manim",
+        "description": "manim",
+        "isExtraImport": true,
+        "detail": "manim",
+        "documentation": {}
+    },
+    {
+        "label": "NORD_COLORS",
+        "importPath": "colors",
+        "description": "colors",
+        "isExtraImport": true,
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "NORD_BACKGROUND",
+        "importPath": "colors",
+        "description": "colors",
+        "isExtraImport": true,
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "NORD_FOREGROUND",
+        "importPath": "colors",
+        "description": "colors",
+        "isExtraImport": true,
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "AURORA_GREEN",
+        "importPath": "colors",
+        "description": "colors",
+        "isExtraImport": true,
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "FROST_TEAL",
+        "importPath": "colors",
+        "description": "colors",
+        "isExtraImport": true,
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "NORD_COLORS",
+        "importPath": "colors",
+        "description": "colors",
+        "isExtraImport": true,
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "NORD_BACKGROUND",
+        "importPath": "colors",
+        "description": "colors",
+        "isExtraImport": true,
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "NORD_FOREGROUND",
+        "importPath": "colors",
+        "description": "colors",
+        "isExtraImport": true,
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "AURORA_YELLOW",
+        "importPath": "colors",
+        "description": "colors",
+        "isExtraImport": true,
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "NORD_BLUE",
+        "importPath": "colors",
+        "description": "colors",
+        "isExtraImport": true,
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "FROST_AQUA",
+        "importPath": "colors",
+        "description": "colors",
+        "isExtraImport": true,
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "FROST_AZURE",
+        "importPath": "colors",
+        "description": "colors",
+        "isExtraImport": true,
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "NORD_FOREGROUND",
+        "importPath": "colors",
+        "description": "colors",
+        "isExtraImport": true,
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "POIMANDRES_BACKGROUND",
+        "importPath": "colors",
+        "description": "colors",
+        "isExtraImport": true,
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "POIMANDRES_FOREGROUND",
+        "importPath": "colors",
+        "description": "colors",
+        "isExtraImport": true,
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "NORD_COLORS",
+        "importPath": "colors",
+        "description": "colors",
+        "isExtraImport": true,
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "NORD_BACKGROUND",
+        "importPath": "colors",
+        "description": "colors",
+        "isExtraImport": true,
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "NORD_FOREGROUND",
+        "importPath": "colors",
+        "description": "colors",
+        "isExtraImport": true,
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "POIMANDRES_BACKGROUND",
+        "importPath": "colors",
+        "description": "colors",
+        "isExtraImport": true,
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "POIMANDRES_FOREGROUND",
+        "importPath": "colors",
+        "description": "colors",
+        "isExtraImport": true,
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "AddTextLetterByLetterWithCursor",
+        "importPath": "typing_anim",
+        "description": "typing_anim",
+        "isExtraImport": true,
+        "detail": "typing_anim",
+        "documentation": {}
+    },
+    {
+        "label": "RemoveTextLetterByLetterWithCursor",
+        "importPath": "typing_anim",
+        "description": "typing_anim",
+        "isExtraImport": true,
+        "detail": "typing_anim",
+        "documentation": {}
+    },
+    {
+        "label": "Blink",
+        "importPath": "typing_anim",
+        "description": "typing_anim",
+        "isExtraImport": true,
+        "detail": "typing_anim",
+        "documentation": {}
+    },
+    {
+        "label": "AddTextLetterByLetterWithCursor",
+        "importPath": "typing_anim",
+        "description": "typing_anim",
+        "isExtraImport": true,
+        "detail": "typing_anim",
+        "documentation": {}
+    },
+    {
+        "label": "AddTextLetterByLetterWithCursor",
+        "importPath": "typing_anim",
+        "description": "typing_anim",
+        "isExtraImport": true,
+        "detail": "typing_anim",
+        "documentation": {}
+    },
+    {
+        "label": "RemoveTextLetterByLetterWithCursor",
+        "importPath": "typing_anim",
+        "description": "typing_anim",
+        "isExtraImport": true,
+        "detail": "typing_anim",
+        "documentation": {}
+    },
+    {
+        "label": "Blink",
+        "importPath": "typing_anim",
+        "description": "typing_anim",
+        "isExtraImport": true,
+        "detail": "typing_anim",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "ast",
+        "description": "ast",
+        "isExtraImport": true,
+        "detail": "ast",
+        "documentation": {}
+    },
+    {
+        "label": "T",
+        "importPath": "re",
+        "description": "re",
+        "isExtraImport": true,
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "get_text_box_with_icon",
+        "importPath": "manim_assets",
+        "description": "manim_assets",
+        "isExtraImport": true,
+        "detail": "manim_assets",
+        "documentation": {}
+    },
+    {
+        "label": "get_cursor",
+        "importPath": "manim_assets",
+        "description": "manim_assets",
+        "isExtraImport": true,
+        "detail": "manim_assets",
+        "documentation": {}
+    },
+    {
+        "label": "get_left_border",
+        "importPath": "manim_assets",
+        "description": "manim_assets",
+        "isExtraImport": true,
+        "detail": "manim_assets",
+        "documentation": {}
+    },
+    {
+        "label": "get_axis",
+        "importPath": "manim_assets",
+        "description": "manim_assets",
+        "isExtraImport": true,
+        "detail": "manim_assets",
+        "documentation": {}
+    },
+    {
+        "label": "get_translucent_rectangle",
+        "importPath": "manim_assets",
+        "description": "manim_assets",
+        "isExtraImport": true,
+        "detail": "manim_assets",
+        "documentation": {}
+    },
+    {
+        "label": "get_cursor",
+        "importPath": "manim_assets",
+        "description": "manim_assets",
+        "isExtraImport": true,
+        "detail": "manim_assets",
+        "documentation": {}
+    },
+    {
+        "label": "get_left_border",
+        "importPath": "manim_assets",
+        "description": "manim_assets",
+        "isExtraImport": true,
+        "detail": "manim_assets",
+        "documentation": {}
+    },
+    {
+        "label": "get_axis",
+        "importPath": "manim_assets",
+        "description": "manim_assets",
+        "isExtraImport": true,
+        "detail": "manim_assets",
+        "documentation": {}
+    },
+    {
+        "label": "get_translucent_rectangle",
+        "importPath": "manim_assets",
+        "description": "manim_assets",
+        "isExtraImport": true,
+        "detail": "manim_assets",
+        "documentation": {}
+    },
+    {
+        "label": "get_text_box_with_icon",
+        "importPath": "manim_assets",
+        "description": "manim_assets",
+        "isExtraImport": true,
+        "detail": "manim_assets",
+        "documentation": {}
+    },
+    {
+        "label": "play_text_line_by_line",
+        "importPath": "manim_scripts",
+        "description": "manim_scripts",
+        "isExtraImport": true,
+        "detail": "manim_scripts",
+        "documentation": {}
+    },
+    {
+        "label": "play_text_line_by_line",
+        "importPath": "manim_scripts",
+        "description": "manim_scripts",
+        "isExtraImport": true,
+        "detail": "manim_scripts",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "scipy.stats",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "shapiro",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "bartlett",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "t",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "inf",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "sin",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "pi",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "exp",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "tabulate",
+        "importPath": "tabulate",
+        "description": "tabulate",
+        "isExtraImport": true,
+        "detail": "tabulate",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "wrap",
+        "importPath": "textwrap",
+        "description": "textwrap",
+        "isExtraImport": true,
+        "detail": "textwrap",
+        "documentation": {}
+    },
+    {
+        "label": "LabelEncoder",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "MinMaxScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "namedtuple",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "namedtuple",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "manimpango",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "manimpango",
+        "description": "manimpango",
+        "detail": "manimpango",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "seaborn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "seaborn",
+        "description": "seaborn",
+        "detail": "seaborn",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "yfinance",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yfinance",
+        "description": "yfinance",
+        "detail": "yfinance",
+        "documentation": {}
+    },
+    {
+        "label": "plot_multiline_chart",
+        "importPath": "visualisation",
+        "description": "visualisation",
+        "isExtraImport": true,
+        "detail": "visualisation",
+        "documentation": {}
+    },
+    {
+        "label": "plot_acf_pacf_side_by_side",
+        "importPath": "visualisation",
+        "description": "visualisation",
+        "isExtraImport": true,
+        "detail": "visualisation",
+        "documentation": {}
+    },
+    {
+        "label": "product",
+        "importPath": "itertools",
+        "description": "itertools",
+        "isExtraImport": true,
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "encode_labels",
+        "importPath": "preprocessing",
+        "description": "preprocessing",
+        "isExtraImport": true,
+        "detail": "preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "preprocessing",
+        "description": "preprocessing",
+        "isExtraImport": true,
+        "detail": "preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split_numpy",
+        "importPath": "preprocessing",
+        "description": "preprocessing",
+        "isExtraImport": true,
+        "detail": "preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "polars",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "polars",
+        "description": "polars",
+        "detail": "polars",
+        "documentation": {}
+    },
+    {
+        "label": "feature_calculators",
+        "importPath": "tsfresh.feature_extraction",
+        "description": "tsfresh.feature_extraction",
+        "isExtraImport": true,
+        "detail": "tsfresh.feature_extraction",
+        "documentation": {}
+    },
+    {
+        "label": "feature_calculators",
+        "importPath": "tsfresh.feature_extraction",
+        "description": "tsfresh.feature_extraction",
+        "isExtraImport": true,
+        "detail": "tsfresh.feature_extraction",
+        "documentation": {}
+    },
+    {
+        "label": "plot_acf",
+        "importPath": "statsmodels.graphics.tsaplots",
+        "description": "statsmodels.graphics.tsaplots",
+        "isExtraImport": true,
+        "detail": "statsmodels.graphics.tsaplots",
+        "documentation": {}
+    },
+    {
+        "label": "plot_pacf",
+        "importPath": "statsmodels.graphics.tsaplots",
+        "description": "statsmodels.graphics.tsaplots",
+        "isExtraImport": true,
+        "detail": "statsmodels.graphics.tsaplots",
+        "documentation": {}
+    },
+    {
+        "label": "LogScale",
+        "importPath": "matplotlib.scale",
+        "description": "matplotlib.scale",
+        "isExtraImport": true,
+        "detail": "matplotlib.scale",
+        "documentation": {}
+    },
+    {
+        "label": "AutoMinorLocator",
+        "importPath": "matplotlib.ticker",
+        "description": "matplotlib.ticker",
+        "isExtraImport": true,
+        "detail": "matplotlib.ticker",
+        "documentation": {}
+    },
+    {
+        "label": "adfuller",
+        "importPath": "statsmodels.tsa.stattools",
+        "description": "statsmodels.tsa.stattools",
+        "isExtraImport": true,
+        "detail": "statsmodels.tsa.stattools",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "AxisConfig",
+        "kind": 6,
+        "importPath": "axes",
+        "description": "axes",
+        "peekOfCode": "class AxisConfig:\n    foreground_color: str\n    background_color: str\n    x_vector: str\n    y_vector: str\n    x_label: str\n    y_label: str\n    width = 10\n    height = 5\nconfig = AxisConfig(",
+        "detail": "axes",
+        "documentation": {}
+    },
+    {
+        "label": "Axis",
+        "kind": 6,
+        "importPath": "axes",
+        "description": "axes",
+        "peekOfCode": "class Axis(Scene):\n    def __init__(self, config=config):\n        self.config = config\n        self.x_vector = config.x_vector\n        self.y_vector = config.y_vector\n        self.foreground_color = config.foreground_color\n        self.background_color = config.background_color\n        self.x_label = config.x_label\n        self.y_label = config.y_label\n        self.n_ticks = config.width",
+        "detail": "axes",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "axes",
+        "description": "axes",
+        "peekOfCode": "config = AxisConfig(\n    foreground_color=NORD_FOREGROUND,\n    background_color=NORD_BACKGROUND,\n    x_vector=[0, 500, 1],\n    y_vector=[0, 450, 1],\n    x_label=\"Time\",\n    y_label=\"Price\",\n)\nclass Axis(Scene):\n    def __init__(self, config=config):",
+        "detail": "axes",
+        "documentation": {}
+    },
+    {
+        "label": "FunctionScopeScene",
+        "kind": 6,
+        "importPath": "closures",
+        "description": "closures",
+        "peekOfCode": "class FunctionScopeScene(Scene):\n    def construct(self):\n        super().__init__()\n        self.background_color = NORD_BACKGROUND\n        self.text_color = NORD_FOREGROUND\n        self.foreground_color = FROST_TEAL\n        FONT_SIZE = 18\n        Text.set_default(font=\"DM Mono\", font_size=FONT_SIZE)\n        self.camera.background_color = NORD_BACKGROUND\n        text = \"Rust’s closures are anonymous functions you can save in a variable or pass as arguments to other functions. You can create the closure in one place and then call the closure elsewhere to evaluate it in a different context. Unlike functions, closures can capture values from the scope in which they’re defined.\"",
+        "detail": "closures",
+        "documentation": {}
+    },
+    {
+        "label": "make_function_scope_rect",
+        "kind": 2,
+        "importPath": "closures",
+        "description": "closures",
+        "peekOfCode": "def make_function_scope_rect(width=1, height=1, fill=AURORA_YELLOW):\n    return RoundedRectangle(\n        color=NORD_FOREGROUND,\n        fill_opacity=1,\n        fill_color=fill,\n        stroke_width=0,\n        height=height,\n        width=width,\n        corner_radius=0.2,\n    )",
+        "detail": "closures",
+        "documentation": {}
+    },
+    {
+        "label": "moving_dots",
+        "kind": 2,
+        "importPath": "closures",
+        "description": "closures",
+        "peekOfCode": "def moving_dots(obj, lst: List, l0, l1):\n    g = VGroup()\n    dots = [Dot(l0.number_to_point(n), color=FROST_AQUA) for n in lst]\n    debug(dots)\n    obj.add(*dots)\n    obj.play(\n        *[\n            dot.animate.move_to(l1.number_to_point(n / 100))\n            for n, dot in zip(lst, dots)\n        ],",
+        "detail": "closures",
+        "documentation": {}
+    },
+    {
+        "label": "debug",
+        "kind": 5,
+        "importPath": "closures",
+        "description": "closures",
+        "peekOfCode": "debug = logger.debug\ndef make_function_scope_rect(width=1, height=1, fill=AURORA_YELLOW):\n    return RoundedRectangle(\n        color=NORD_FOREGROUND,\n        fill_opacity=1,\n        fill_color=fill,\n        stroke_width=0,\n        height=height,\n        width=width,\n        corner_radius=0.2,",
+        "detail": "closures",
+        "documentation": {}
+    },
+    {
+        "label": "NORD_BACKGROUND",
+        "kind": 5,
+        "importPath": "colors",
+        "description": "colors",
+        "peekOfCode": "NORD_BACKGROUND = \"#2e3440\"\nNORD_FOREGROUND = \"#eceff4\"\nFROST_TEAL = \"#a3be8c\"\nSLATE_GRAY = \"#657b83\"\nFROST_AZURE = \"#6ca1c1\"\nAURORA_GREEN = \"#a3be8c\"\nAURORA_PURPLE = \"#a78ea2\"\nFROST_AQUA = \"#88b3b3\"\nAURORA_RED = \"#bf616a\"\nAURORA_YELLOW = \"#ebcb8b\"",
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "NORD_FOREGROUND",
+        "kind": 5,
+        "importPath": "colors",
+        "description": "colors",
+        "peekOfCode": "NORD_FOREGROUND = \"#eceff4\"\nFROST_TEAL = \"#a3be8c\"\nSLATE_GRAY = \"#657b83\"\nFROST_AZURE = \"#6ca1c1\"\nAURORA_GREEN = \"#a3be8c\"\nAURORA_PURPLE = \"#a78ea2\"\nFROST_AQUA = \"#88b3b3\"\nAURORA_RED = \"#bf616a\"\nAURORA_YELLOW = \"#ebcb8b\"\nNORD_BLUE = \"#5e81ac\"",
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "FROST_TEAL",
+        "kind": 5,
+        "importPath": "colors",
+        "description": "colors",
+        "peekOfCode": "FROST_TEAL = \"#a3be8c\"\nSLATE_GRAY = \"#657b83\"\nFROST_AZURE = \"#6ca1c1\"\nAURORA_GREEN = \"#a3be8c\"\nAURORA_PURPLE = \"#a78ea2\"\nFROST_AQUA = \"#88b3b3\"\nAURORA_RED = \"#bf616a\"\nAURORA_YELLOW = \"#ebcb8b\"\nNORD_BLUE = \"#5e81ac\"\nPOIMANDRES_BACKGROUND = \"#292e39\"",
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "SLATE_GRAY",
+        "kind": 5,
+        "importPath": "colors",
+        "description": "colors",
+        "peekOfCode": "SLATE_GRAY = \"#657b83\"\nFROST_AZURE = \"#6ca1c1\"\nAURORA_GREEN = \"#a3be8c\"\nAURORA_PURPLE = \"#a78ea2\"\nFROST_AQUA = \"#88b3b3\"\nAURORA_RED = \"#bf616a\"\nAURORA_YELLOW = \"#ebcb8b\"\nNORD_BLUE = \"#5e81ac\"\nPOIMANDRES_BACKGROUND = \"#292e39\"\nPOIMANDRES_FOREGROUND = \"#eceff4\"",
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "FROST_AZURE",
+        "kind": 5,
+        "importPath": "colors",
+        "description": "colors",
+        "peekOfCode": "FROST_AZURE = \"#6ca1c1\"\nAURORA_GREEN = \"#a3be8c\"\nAURORA_PURPLE = \"#a78ea2\"\nFROST_AQUA = \"#88b3b3\"\nAURORA_RED = \"#bf616a\"\nAURORA_YELLOW = \"#ebcb8b\"\nNORD_BLUE = \"#5e81ac\"\nPOIMANDRES_BACKGROUND = \"#292e39\"\nPOIMANDRES_FOREGROUND = \"#eceff4\"\nNORD_COLORS = [",
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "AURORA_GREEN",
+        "kind": 5,
+        "importPath": "colors",
+        "description": "colors",
+        "peekOfCode": "AURORA_GREEN = \"#a3be8c\"\nAURORA_PURPLE = \"#a78ea2\"\nFROST_AQUA = \"#88b3b3\"\nAURORA_RED = \"#bf616a\"\nAURORA_YELLOW = \"#ebcb8b\"\nNORD_BLUE = \"#5e81ac\"\nPOIMANDRES_BACKGROUND = \"#292e39\"\nPOIMANDRES_FOREGROUND = \"#eceff4\"\nNORD_COLORS = [\n    FROST_TEAL,",
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "AURORA_PURPLE",
+        "kind": 5,
+        "importPath": "colors",
+        "description": "colors",
+        "peekOfCode": "AURORA_PURPLE = \"#a78ea2\"\nFROST_AQUA = \"#88b3b3\"\nAURORA_RED = \"#bf616a\"\nAURORA_YELLOW = \"#ebcb8b\"\nNORD_BLUE = \"#5e81ac\"\nPOIMANDRES_BACKGROUND = \"#292e39\"\nPOIMANDRES_FOREGROUND = \"#eceff4\"\nNORD_COLORS = [\n    FROST_TEAL,\n    SLATE_GRAY,",
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "FROST_AQUA",
+        "kind": 5,
+        "importPath": "colors",
+        "description": "colors",
+        "peekOfCode": "FROST_AQUA = \"#88b3b3\"\nAURORA_RED = \"#bf616a\"\nAURORA_YELLOW = \"#ebcb8b\"\nNORD_BLUE = \"#5e81ac\"\nPOIMANDRES_BACKGROUND = \"#292e39\"\nPOIMANDRES_FOREGROUND = \"#eceff4\"\nNORD_COLORS = [\n    FROST_TEAL,\n    SLATE_GRAY,\n    FROST_AZURE,",
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "AURORA_RED",
+        "kind": 5,
+        "importPath": "colors",
+        "description": "colors",
+        "peekOfCode": "AURORA_RED = \"#bf616a\"\nAURORA_YELLOW = \"#ebcb8b\"\nNORD_BLUE = \"#5e81ac\"\nPOIMANDRES_BACKGROUND = \"#292e39\"\nPOIMANDRES_FOREGROUND = \"#eceff4\"\nNORD_COLORS = [\n    FROST_TEAL,\n    SLATE_GRAY,\n    FROST_AZURE,\n    AURORA_GREEN,",
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "AURORA_YELLOW",
+        "kind": 5,
+        "importPath": "colors",
+        "description": "colors",
+        "peekOfCode": "AURORA_YELLOW = \"#ebcb8b\"\nNORD_BLUE = \"#5e81ac\"\nPOIMANDRES_BACKGROUND = \"#292e39\"\nPOIMANDRES_FOREGROUND = \"#eceff4\"\nNORD_COLORS = [\n    FROST_TEAL,\n    SLATE_GRAY,\n    FROST_AZURE,\n    AURORA_GREEN,\n    AURORA_PURPLE,",
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "NORD_BLUE",
+        "kind": 5,
+        "importPath": "colors",
+        "description": "colors",
+        "peekOfCode": "NORD_BLUE = \"#5e81ac\"\nPOIMANDRES_BACKGROUND = \"#292e39\"\nPOIMANDRES_FOREGROUND = \"#eceff4\"\nNORD_COLORS = [\n    FROST_TEAL,\n    SLATE_GRAY,\n    FROST_AZURE,\n    AURORA_GREEN,\n    AURORA_PURPLE,\n    FROST_AQUA,",
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "POIMANDRES_BACKGROUND",
+        "kind": 5,
+        "importPath": "colors",
+        "description": "colors",
+        "peekOfCode": "POIMANDRES_BACKGROUND = \"#292e39\"\nPOIMANDRES_FOREGROUND = \"#eceff4\"\nNORD_COLORS = [\n    FROST_TEAL,\n    SLATE_GRAY,\n    FROST_AZURE,\n    AURORA_GREEN,\n    AURORA_PURPLE,\n    FROST_AQUA,\n    AURORA_RED,",
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "POIMANDRES_FOREGROUND",
+        "kind": 5,
+        "importPath": "colors",
+        "description": "colors",
+        "peekOfCode": "POIMANDRES_FOREGROUND = \"#eceff4\"\nNORD_COLORS = [\n    FROST_TEAL,\n    SLATE_GRAY,\n    FROST_AZURE,\n    AURORA_GREEN,\n    AURORA_PURPLE,\n    FROST_AQUA,\n    AURORA_RED,\n]",
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "NORD_COLORS",
+        "kind": 5,
+        "importPath": "colors",
+        "description": "colors",
+        "peekOfCode": "NORD_COLORS = [\n    FROST_TEAL,\n    SLATE_GRAY,\n    FROST_AZURE,\n    AURORA_GREEN,\n    AURORA_PURPLE,\n    FROST_AQUA,\n    AURORA_RED,\n]",
+        "detail": "colors",
+        "documentation": {}
+    },
+    {
+        "label": "RegressionType",
+        "kind": 6,
+        "importPath": "LinearRegressionSLP",
+        "description": "LinearRegressionSLP",
+        "peekOfCode": "class RegressionType(Enum):\n    Linear = 1\n    Ridge = 2\n    Lasso = 3\nclass RegressionUtility:\n    def __init__(\n        self,\n        device,\n        x,\n        y,",
+        "detail": "LinearRegressionSLP",
+        "documentation": {}
+    },
+    {
+        "label": "RegressionUtility",
+        "kind": 6,
+        "importPath": "LinearRegressionSLP",
+        "description": "LinearRegressionSLP",
+        "peekOfCode": "class RegressionUtility:\n    def __init__(\n        self,\n        device,\n        x,\n        y,\n        epochs,\n        variable_names=None,\n        regression_type=RegressionType.Linear,\n        learning_rate=0.01,",
+        "detail": "LinearRegressionSLP",
+        "documentation": {}
+    },
+    {
+        "label": "get_cursor",
+        "kind": 2,
+        "importPath": "manim_assets",
+        "description": "manim_assets",
+        "peekOfCode": "def get_cursor(text, height=0.2, width=0.1):\n    return Rectangle(\n        color=NORD_FOREGROUND,\n        fill_color=NORD_FOREGROUND,\n        height=height,\n        width=width,\n    ).move_to(text[0])\ndef get_left_border(coords, height=1, width=1, color=NORD_FOREGROUND):\n    return Line(\n        color=color,",
+        "detail": "manim_assets",
+        "documentation": {}
+    },
+    {
+        "label": "get_left_border",
+        "kind": 2,
+        "importPath": "manim_assets",
+        "description": "manim_assets",
+        "peekOfCode": "def get_left_border(coords, height=1, width=1, color=NORD_FOREGROUND):\n    return Line(\n        color=color,\n        start=coords,\n        end=np.array([coords[0], coords[1] + height, coords[2]]),\n        stroke_width=width,\n    ).move_to(coords, aligned_edge=UP)\ndef get_translucent_rectangle(\n    coords=[0, 0, 0],\n    height=1,",
+        "detail": "manim_assets",
+        "documentation": {}
+    },
+    {
+        "label": "get_translucent_rectangle",
+        "kind": 2,
+        "importPath": "manim_assets",
+        "description": "manim_assets",
+        "peekOfCode": "def get_translucent_rectangle(\n    coords=[0, 0, 0],\n    height=1,\n    width=1,\n    color=NORD_FOREGROUND,\n    stroke=NORD_FOREGROUND,\n    opacity=0.05,\n):\n    return Rectangle(\n        color=color,",
+        "detail": "manim_assets",
+        "documentation": {}
+    },
+    {
+        "label": "get_axis",
+        "kind": 2,
+        "importPath": "manim_assets",
+        "description": "manim_assets",
+        "peekOfCode": "def get_axis(\n    x_range,\n    y_range,\n    background_color=None,\n    foreground_color=None,\n    width=10,\n    height=5,\n    FONT_SIZE=14,\n    round_off=2,\n    x_round_off=2,",
+        "detail": "manim_assets",
+        "documentation": {}
+    },
+    {
+        "label": "get_text_box_with_icon",
+        "kind": 2,
+        "importPath": "manim_assets",
+        "description": "manim_assets",
+        "peekOfCode": "def get_text_box_with_icon(\n    text,\n    icon_path,\n    color,\n    rectangle_background_color,\n    width,\n    height,\n    svg_fill_opacity=1,\n) -> VGroup:\n    r = RoundedRectangle(width=width, height=height, corner_radius=0.1, stroke_width=0)",
+        "detail": "manim_assets",
+        "documentation": {}
+    },
+    {
+        "label": "play_text_line_by_line",
+        "kind": 2,
+        "importPath": "manim_scripts",
+        "description": "manim_scripts",
+        "peekOfCode": "def play_text_line_by_line(\n    manim_object,\n    text,\n    coords,\n    border=True,\n    wrap_text=True,\n    font_size=12,\n    run_time=5,\n    width=50,\n    color=None,",
+        "detail": "manim_scripts",
+        "documentation": {}
+    },
+    {
+        "label": "debug",
+        "kind": 5,
+        "importPath": "manim_scripts",
+        "description": "manim_scripts",
+        "peekOfCode": "debug = logger.debug\nfrom manim_assets import (\n    get_cursor,\n    get_left_border,\n    get_axis,\n    get_translucent_rectangle,\n)\nfrom colors import POIMANDRES_BACKGROUND, POIMANDRES_FOREGROUND\nfrom typing_anim import AddTextLetterByLetterWithCursor\ndef play_text_line_by_line(",
+        "detail": "manim_scripts",
+        "documentation": {}
+    },
+    {
+        "label": "encode_labels",
+        "kind": 2,
+        "importPath": "preprocessing",
+        "description": "preprocessing",
+        "peekOfCode": "def encode_labels(data, columns):\n    for column in columns:\n        le = LabelEncoder()\n        data[column] = le.fit_transform(data[column])\n    return data\ndef train_test_split(data, test_size, y_name):\n    train_test = namedtuple('train_test', ['x_train', 'x_test', 'y_train', 'y_test'])\n    split_row = len(data) - int(test_size * len(data))\n    train_data = data.iloc[:split_row]\n    test_data = data.iloc[split_row:]",
+        "detail": "preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "kind": 2,
+        "importPath": "preprocessing",
+        "description": "preprocessing",
+        "peekOfCode": "def train_test_split(data, test_size, y_name):\n    train_test = namedtuple('train_test', ['x_train', 'x_test', 'y_train', 'y_test'])\n    split_row = len(data) - int(test_size * len(data))\n    train_data = data.iloc[:split_row]\n    test_data = data.iloc[split_row:]\n    return train_test(x_train=train_data.drop(y_name, axis=1).to_numpy(), x_test=test_data.drop(y_name, axis=1).to_numpy(), y_train=train_data[y_name].to_numpy(), y_test=test_data[y_name].to_numpy())\ndef train_test_split_numpy (data, test_size, y_index=-1):\n    train_test = namedtuple('train_test', ['x_train', 'x_test', 'y_train', 'y_test'])\n    split_row = int(len(data) * (1 - test_size))\n    x_train = np.array(data[:split_row, :y_index].tolist())",
+        "detail": "preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split_nump",
+        "kind": 2,
+        "importPath": "preprocessing",
+        "description": "preprocessing",
+        "peekOfCode": "def train_test_split_numpy (data, test_size, y_index=-1):\n    train_test = namedtuple('train_test', ['x_train', 'x_test', 'y_train', 'y_test'])\n    split_row = int(len(data) * (1 - test_size))\n    x_train = np.array(data[:split_row, :y_index].tolist())\n    x_test = np.array(data[split_row:, :y_index].tolist())\n    y_train = np.array(data[:split_row, y_index].tolist())\n    y_test = np.array(data[split_row:, y_index].tolist())\n    return train_test(x_train=x_train, x_test=x_test, y_train=y_train, y_test=y_test)\ndef transform_to_returns(array: np.ndarray) -> np.ndarray:\n    \"\"\"Transforms an array of prices to returns.",
+        "detail": "preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "transform_to_returns",
+        "kind": 2,
+        "importPath": "preprocessing",
+        "description": "preprocessing",
+        "peekOfCode": "def transform_to_returns(array: np.ndarray) -> np.ndarray:\n    \"\"\"Transforms an array of prices to returns.\n    Args:\n    - array (np.ndarray): Array of prices.\n    Returns:\n    - Array of returns.\n    \"\"\"\n    return (array[1:] - array[:-1]) / array[:-1]\ndef drop_nulls(arr):\n    return arr[~np.isnan(arr)]",
+        "detail": "preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "drop_nulls",
+        "kind": 2,
+        "importPath": "preprocessing",
+        "description": "preprocessing",
+        "peekOfCode": "def drop_nulls(arr):\n    return arr[~np.isnan(arr)]\ndef count_nulls(arr):\n    return np.sum(np.isnan(arr))",
+        "detail": "preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "count_nulls",
+        "kind": 2,
+        "importPath": "preprocessing",
+        "description": "preprocessing",
+        "peekOfCode": "def count_nulls(arr):\n    return np.sum(np.isnan(arr))",
+        "detail": "preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "TypingAnimation",
+        "kind": 6,
+        "importPath": "quickstart",
+        "description": "quickstart",
+        "peekOfCode": "class TypingAnimation(Scene):\n        def play_sq(self):\n            svg = SVGMobject(\"assets/cpu.svg\")\n            svg_list = VGroup(*[svg.copy() for _ in range(5)])\n            svg_list = [svg.copy() for _ in range(5)]\n            for idx, svg in enumerate(svg_list):\n                # svg.move_to([-5 + idx * 2, 0, 0])\n                svg.set_stroke(\"#ECEFF4\", 1)\n                svg.scale(0.25)\n                svg.set_fill(opacity=0)",
+        "detail": "quickstart",
+        "documentation": {}
+    },
+    {
+        "label": "create_textbox",
+        "kind": 2,
+        "importPath": "quickstart",
+        "description": "quickstart",
+        "peekOfCode": "def create_textbox(color, string):\n    length = len(string)\n    width = 0.18 * length  # calculate the width of the box\n    result = VGroup()  # create a VGroup\n    box = RoundedRectangle(\n        corner_radius=0.05,  # create a box\n        height=0.5,\n        width=width,\n        color=color,\n        stroke_width=0,",
+        "detail": "quickstart",
+        "documentation": {}
+    },
+    {
+        "label": "create_glow",
+        "kind": 2,
+        "importPath": "quickstart",
+        "description": "quickstart",
+        "peekOfCode": "def create_glow(vmobject, rad=1, col=\"#8FBCBB\"):\n    glow_group = VGroup()\n    for idx in range(60):\n        new_circle = Circle(radius=rad*(1.002**(idx**2))/400, stroke_opacity=0, fill_color=col,\n        fill_opacity=0.2-idx/300).move_to(vmobject)\n        glow_group.add(new_circle)\n    return glow_group\nfrom typing_anim import AddTextLetterByLetterWithCursor, RemoveTextLetterByLetterWithCursor, Blink\nclass TypingAnimation(Scene):\n        def play_sq(self):",
+        "detail": "quickstart",
+        "documentation": {}
+    },
+    {
+        "label": "NORD_COLORS",
+        "kind": 5,
+        "importPath": "quickstart",
+        "description": "quickstart",
+        "peekOfCode": "NORD_COLORS = [\n    \"#8FBCBB\",\n    \"#88C0D0\",\n    \"#81A1C1\",\n    \"#5E81AC\",\n]\ndef create_textbox(color, string):\n    length = len(string)\n    width = 0.18 * length  # calculate the width of the box\n    result = VGroup()  # create a VGroup",
+        "detail": "quickstart",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleScene",
+        "kind": 6,
+        "importPath": "train_test_val",
+        "description": "train_test_val",
+        "peekOfCode": "class SimpleScene(Scene):\n    def __init__(self):\n        self.text_color = POIMANDRES_FOREGROUND\n        self.foreground_color = POIMANDRES_FOREGROUND\n        self.title_color = \"#89DCFE\"\n        self.background_color = POIMANDRES_BACKGROUND\n        self.training_explanation = \"Training data is used to train the parameters of the model. The loss function is minimized using the observations in the training set.\"\n        self.validation_explanation = \"Validation data is used to tune the hyperparameters of the model. The performance of the trained model is iteratively improved by measuring it on the validation set.\"\n        self.testing_explanation = \"Testing data is used to evaluate the performance of the model. The model is evaluated on the testing set to determine its generalization performance.\"\n    def construct(self):",
+        "detail": "train_test_val",
+        "documentation": {}
+    },
+    {
+        "label": "get_stocks_data",
+        "kind": 2,
+        "importPath": "train_test_val",
+        "description": "train_test_val",
+        "peekOfCode": "def get_stocks_data():\n    df = pd.read_csv(\"NVDA.csv\")\n    x = df[\"UNIX\"].to_numpy()\n    y = df[\"Adj Close\"].to_numpy()\n    return x, y\nfrom datetime import datetime, timedelta\ndef date_quantile(min_date: str, max_date: str, quantile: float) -> str:\n    min_dt = datetime.strptime(min_date, \"%Y-%m-%d\")\n    max_dt = datetime.strptime(max_date, \"%Y-%m-%d\")\n    delta = max_dt - min_dt",
+        "detail": "train_test_val",
+        "documentation": {}
+    },
+    {
+        "label": "date_quantile",
+        "kind": 2,
+        "importPath": "train_test_val",
+        "description": "train_test_val",
+        "peekOfCode": "def date_quantile(min_date: str, max_date: str, quantile: float) -> str:\n    min_dt = datetime.strptime(min_date, \"%Y-%m-%d\")\n    max_dt = datetime.strptime(max_date, \"%Y-%m-%d\")\n    delta = max_dt - min_dt\n    quantile_timedelta = timedelta(days=delta.days * quantile)\n    result_date = min_dt + quantile_timedelta\n    return result_date.strftime(\"%Y-%m-%d\")\nclass SimpleScene(Scene):\n    def __init__(self):\n        self.text_color = POIMANDRES_FOREGROUND",
+        "detail": "train_test_val",
+        "documentation": {}
+    },
+    {
+        "label": "debug",
+        "kind": 5,
+        "importPath": "train_test_val",
+        "description": "train_test_val",
+        "peekOfCode": "debug = logger.debug\nfrom manim import (\n    Scene,\n    Axes,\n    Text,\n    Create,\n    Rectangle,\n    UP,\n    LEFT,\n    ITALIC,",
+        "detail": "train_test_val",
+        "documentation": {}
+    },
+    {
+        "label": "AddTextLetterByLetterWithCursor",
+        "kind": 6,
+        "importPath": "typing_anim",
+        "description": "typing_anim",
+        "peekOfCode": "class AddTextLetterByLetterWithCursor(AddTextLetterByLetter):\n    \"\"\"Similar to :class:`~.AddTextLetterByLetter` , but with an additional cursor mobject at the end.\n    Parameters\n    ----------\n    time_per_char\n        Frequency of appearance of the letters.\n    cursor\n        :class:`~.Mobject` shown after the last added letter.\n    buff\n        Controls how far away the cursor is to the right of the last added letter.",
+        "detail": "typing_anim",
+        "documentation": {}
+    },
+    {
+        "label": "RemoveTextLetterByLetterWithCursor",
+        "kind": 6,
+        "importPath": "typing_anim",
+        "description": "typing_anim",
+        "peekOfCode": "class RemoveTextLetterByLetterWithCursor(AddTextLetterByLetterWithCursor):\n    \"\"\"Similar to :class:`~.RemoveTextLetterByLetter` , but with an additional cursor mobject at the end.\n    Parameters\n    ----------\n    time_per_char\n        Frequency of appearance of the letters.\n    cursor\n        :class:`~.Mobject` shown after the last added letter.\n    buff\n        Controls how far away the cursor is to the right of the last added letter.",
+        "detail": "typing_anim",
+        "documentation": {}
+    },
+    {
+        "label": "Blink",
+        "kind": 6,
+        "importPath": "typing_anim",
+        "description": "typing_anim",
+        "peekOfCode": "class Blink(Succession):\n    \"\"\"Blink the mobject.\n    Parameters\n    ----------\n    mobject\n        The mobject to be blinked.\n    time_on\n        The duration that the mobject is shown for one blink.\n    time_off\n        The duration that the mobject is hidden for one blink.",
+        "detail": "typing_anim",
+        "documentation": {}
+    },
+    {
+        "label": "Outro",
+        "kind": 6,
+        "importPath": "typing_anim",
+        "description": "typing_anim",
+        "peekOfCode": "class Outro(Scene):\n    def construct(self):\n        INSERT_TIME_PER_CHAR = 0.08\n        DELETE_TIME_PER_CHAR = 0.06\n        CUSTOM_PURPLE = ManimColor.from_hex(\"#d787d7\", alpha=1.0)\n        CUSTOM_YELLOW = ManimColor.from_hex(\"#f0cd44\", alpha=1.0)\n        name = Text(\n            \"Devinh\",\n            font = \"monospace\",\n            color = CUSTOM_PURPLE,",
+        "detail": "typing_anim",
+        "documentation": {}
+    },
+    {
+        "label": "TimeSeries",
+        "kind": 6,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "class TimeSeries:\n    def __init__(self, ticker: str, date: str = '2017-01-01'):\n        self.data = get_ohlc_data([ticker],date)[ticker].reset_index()\n        self.close_price = self.data['Close'].copy()\n        self.date = self.data['Date'].copy()\n        self.ticker = ticker\n    def construct_returns(self):\n        self.data['Returns'] = self.data['Close'].pct_change()\n        return self\n    def profitability (self, column, threshold):",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_ohlc_data",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_ohlc_data(tickers, start_date='2017-01-01'):\n    ohlc_data = {}\n    for ticker in tickers:\n        try:\n            stock_data = yf.download(ticker, start=start_date)\n            ohlc_data[ticker] = stock_data\n        except Exception as e:\n            print(f\"Error fetching data for {ticker}: {e}\")\n    return ohlc_data\nimport pickle",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "write_pickle",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def write_pickle(obj, file_path):\n    with open(file_path, 'wb') as file:\n        pickle.dump(obj, file, protocol=pickle.HIGHEST_PROTOCOL)\ndef read_pickle(file_path):\n    with open(file_path, 'rb') as file:\n        obj = pickle.load(file)\n    return obj\nimport numpy as np\nimport scipy.stats as stats\nimport pandas as pd",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "read_pickle",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def read_pickle(file_path):\n    with open(file_path, 'rb') as file:\n        obj = pickle.load(file)\n    return obj\nimport numpy as np\nimport scipy.stats as stats\nimport pandas as pd\ndef compute_stats(series: pd.Series, name: str):\n    stats_dict = {\n        'Name': name,",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "compute_stats",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def compute_stats(series: pd.Series, name: str):\n    stats_dict = {\n        'Name': name,\n        'Minimum': np.min(series),\n        'Q1': series.quantile(0.25),\n        'Median': np.median(series),\n        'Q3': series.quantile(0.75),\n        'Maximum': np.max(series),\n        'Range': np.ptp(series),\n        'Mean': np.mean(series),",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "getWeights",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def getWeights(d,lags):\n    # return the weights from the series expansion of the differencing operator\n    # for real orders d and up to lags coefficients\n    w=[1]\n    for k in range(1,lags):\n        w.append(-w[-1]*((d-k+1))/k)\n    w=np.array(w).reshape(-1,1) \n    return w\ndef ts_differencing(series, order, lag_cutoff):\n    # return the time series resulting from (fractional) differencing",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "ts_differencing",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def ts_differencing(series, order, lag_cutoff):\n    # return the time series resulting from (fractional) differencing\n    # for real orders order up to lag_cutoff coefficients\n    weights=getWeights(order, lag_cutoff)\n    res=0\n    for k in range(lag_cutoff):\n        res += weights[k]*series.shift(k).fillna(0)\n    return res[lag_cutoff:] \nfrom itertools import product\nfrom visualisation import plot_acf_pacf_side_by_side",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "min_max_scale",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def min_max_scale(time_series, which_data='x'):\n    scaler_input = MinMaxScaler(feature_range=(-1, 1))\n    if which_data == 'x':\n        scaler_input.fit(time_series.training_data.x_train)\n        return scaler_input.transform(time_series.training_data.x_train), scaler_input.transform(time_series.training_data.x_test)\n    else:\n        y_train = time_series.training_data.y_train.reshape(len(time_series.training_data.y_train), 1)\n        y_test= time_series.training_data.y_test.reshape(len(time_series.training_data.y_test), 1)\n        scaler_input.fit(y_train)\n        return scaler_input.transform(y_train), scaler_input.transform(y_test)",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_summary_statistics",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def calculate_summary_statistics(time_series):\n    \"\"\"\n    Calculate summary statistics for the given time series.\n    Parameters:\n    - time_series (list or array-like): The input time series.\n    Returns:\n    - dict: A dictionary containing summary statistics.\n    \"\"\"\n    # Absolute Sum of Changes\n    abs_sum_of_changes = feature_calculators.absolute_sum_of_changes(time_series)",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "inverse_transform_prediction",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def inverse_transform_predictions (ticker: TimeSeries, preds: np.ndarray):\n    scaler_input = MinMaxScaler(feature_range=(-1, 1))\n    scaler_input.fit(ticker.training_data.y_train.reshape(len(ticker.training_data.y_train), 1))\n    return scaler_input.inverse_transform(preds.reshape(-1, 1)).flatten()\ndef get_actual_and_predicted (ticker: TimeSeries, model):\n    actual_and_predicted = namedtuple('ActualAndPredicted', ['actual', 'predicted'])\n    preds = model.model.predict(ticker.get_reshaped_X_for_LSTM(which_data='test', min_max_scale=True)).flatten()\n    true = ticker.training_data.y_test\n    return actual_and_predicted(true, inverse_transform_predictions(ticker,preds))\ndef plot_actual_vs_predicted (ticker: TimeSeries, model, title):",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_actual_and_predicte",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_actual_and_predicted (ticker: TimeSeries, model):\n    actual_and_predicted = namedtuple('ActualAndPredicted', ['actual', 'predicted'])\n    preds = model.model.predict(ticker.get_reshaped_X_for_LSTM(which_data='test', min_max_scale=True)).flatten()\n    true = ticker.training_data.y_test\n    return actual_and_predicted(true, inverse_transform_predictions(ticker,preds))\ndef plot_actual_vs_predicted (ticker: TimeSeries, model, title):\n    ActualAndPredicted = namedtuple('ActualAndPredicted', ['actual', 'predicted'])\n    preds = model.model.predict(ticker.get_reshaped_X_for_LSTM(which_data='test', min_max_scale=True)).flatten()\n    true = ticker.training_data.y_test\n    idx = range(len(preds))",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "plot_actual_vs_predicte",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def plot_actual_vs_predicted (ticker: TimeSeries, model, title):\n    ActualAndPredicted = namedtuple('ActualAndPredicted', ['actual', 'predicted'])\n    preds = model.model.predict(ticker.get_reshaped_X_for_LSTM(which_data='test', min_max_scale=True)).flatten()\n    true = ticker.training_data.y_test\n    idx = range(len(preds))\n    from visualisation import plot_multiline_chart\n    plot_multiline_chart([(idx, inverse_transform_predictions(ticker, preds), \"Predicted\"), (idx, true, 'Actual')], title, 'Index', 'Price')\n    return ActualAndPredicted(true, inverse_transform_predictions(ticker,preds))\ndef plot_actual_vs_predicted_mlp (ticker: TimeSeries, model, title):\n    ActualAndPredicted = namedtuple('ActualAndPredicted', ['actual', 'predicted'])",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "plot_actual_vs_predicted_ml",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def plot_actual_vs_predicted_mlp (ticker: TimeSeries, model, title):\n    ActualAndPredicted = namedtuple('ActualAndPredicted', ['actual', 'predicted'])\n    preds = model.model.predict(ticker.training_data.x_test).flatten()\n    true = ticker.training_data.y_test\n    idx = range(len(preds))\n    from visualisation import plot_multiline_chart\n    plot_multiline_chart([(idx, inverse_transform_predictions(ticker, preds), \"Predicted\"), (idx, true, 'Actual')], title, 'Index', 'Price')\n    return ActualAndPredicted(true, inverse_transform_predictions(ticker,preds))",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "adf_test",
+        "kind": 2,
+        "importPath": "visualisation",
+        "description": "visualisation",
+        "peekOfCode": "def adf_test(series, alpha=0.05):\n    \"\"\"\n    Perform Augmented Dickey-Fuller (ADF) test for stationarity.\n    Parameters:\n    - series (pd.Series): Time series data.\n    - alpha (float): Significance level for the test.\n    Returns:\n    - ADF test results and conclusion.\n    \"\"\"\n    result = adfuller(series, autolag=\"AIC\")",
+        "detail": "visualisation",
+        "documentation": {}
+    },
+    {
+        "label": "plot_acf_pacf_side_by_side",
+        "kind": 2,
+        "importPath": "visualisation",
+        "description": "visualisation",
+        "peekOfCode": "def plot_acf_pacf_side_by_side(\n    data,\n    lags=None,\n    padding=0.1,\n    title=\"Autocorrelation and Partial Autocorrelation Functions\",\n):\n    # Set a neutral color palette and Arial font\n    sns.set_palette(\"gray\")\n    plt.rcParams[\"font.family\"] = \"Arial\"\n    fig, ax = plt.subplots(1, 2, figsize=(12, 4))",
+        "detail": "visualisation",
+        "documentation": {}
+    },
+    {
+        "label": "plot_multiline_chart",
+        "kind": 2,
+        "importPath": "visualisation",
+        "description": "visualisation",
+        "peekOfCode": "def plot_multiline_chart(\n    data,\n    title=\"Smooth Multiline Chart\",\n    x_label=\"X-axis\",\n    y_label=\"Y-axis\",\n    y_scale=\"linear\",\n):\n    # Define the color scheme with shades of red and black\n    colors = COLORS\n    # Check if the number of data sets is within the supported range",
+        "detail": "visualisation",
+        "documentation": {}
+    },
+    {
+        "label": "plot_multiscatter",
+        "kind": 2,
+        "importPath": "visualisation",
+        "description": "visualisation",
+        "peekOfCode": "def plot_multiscatter(\n    data,\n    title=\"Smooth Multiline Chart\",\n    x_label=\"X-axis\",\n    y_label=\"Y-axis\",\n    y_scale=\"linear\",\n    marker=\"o\",\n    markersize=5,\n    alpha = 0.5\n):",
+        "detail": "visualisation",
+        "documentation": {}
+    },
+    {
+        "label": "plot_series",
+        "kind": 2,
+        "importPath": "visualisation",
+        "description": "visualisation",
+        "peekOfCode": "def plot_series(time, series, format=\"-\", start=0, end=None):\n    \"\"\"\n    Visualizes time series data\n    Args:\n      time (array of int) - contains the time steps\n      series (array of int) - contains the measurements for each time step\n      format - line style when plotting the graph\n      label - tag for the line\n      start - first time step to plot\n      end - last time step to plot",
+        "detail": "visualisation",
+        "documentation": {}
+    },
+    {
+        "label": "plot_kernel_density",
+        "kind": 2,
+        "importPath": "visualisation",
+        "description": "visualisation",
+        "peekOfCode": "def plot_kernel_density(\n    data_list, labels=None, color_palette=COLORS, title=\"Kernel Density Plot\", x_label=\"Support\", y_label=\"Estimated Density\"\n):\n    # Set Seaborn style\n    sns.set_style(style=\"white\")\n    # Create a figure and axis\n    fig, ax = plt.subplots()\n    # Define a custom color palette if provided\n    if color_palette:\n        sns.set_palette(sns.color_palette(color_palette))",
+        "detail": "visualisation",
+        "documentation": {}
+    },
+    {
+        "label": "plt.rcParams[\"font.family\"]",
+        "kind": 5,
+        "importPath": "visualisation",
+        "description": "visualisation",
+        "peekOfCode": "plt.rcParams[\"font.family\"] = \"Arial\"\nCOLORS= [\n        \"#5E81AC\",\n        \"#BF616A\",\n        \"#B48EAD\",\n        \"#EBCB8B\",\n        \"#B48EAD\",\n        \"#C72C41\",\n        \"#EE4540\",\n        \"#E3E3E3\",",
+        "detail": "visualisation",
+        "documentation": {}
+    }
+]
